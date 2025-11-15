@@ -1,2 +1,2 @@
-# creator-burnout-assessment-Duplicate
+# creator-burnout-assessment-uplicate
 Free burnout assessment tool for content creators
